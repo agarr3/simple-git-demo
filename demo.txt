@@ -4,3 +4,4 @@ content modified
 another modification
 yet another
 UI test
+Multiple file test
