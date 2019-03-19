@@ -3,3 +3,4 @@ sample initial content
 content modified
 another modification
 yet another
+UI test
